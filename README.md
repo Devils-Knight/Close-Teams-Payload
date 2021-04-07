@@ -16,4 +16,4 @@ let the script run in background the program will automatically terminate after 
 <a href="url"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducapsindia.com%2Fec-media%2F2020%2F04%2F267_Python_logo-512-min.png&f=1&nofb=1" align="left" width="30%" ></a>
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FMicrosoft_Office_Teams_(2018%25E2%2580%2593present).svg%2F1200px-Microsoft_Office_Teams_(2018%25E2%2580%2593present).svg.png&f=1&nofb=1" align="center" width="30%">
-<img src="https://image.flaticon.com/icons/png/512/37/37318.png" align="right" width="30%">
+<img src="https://image.flaticon.com/icons/png/512/37/37318.png" width="30%">
