@@ -1,7 +1,6 @@
 # Close-Teams-Payload
 Automatically close your meetings in **Microsoft Teams** app after the time specified by you.
 ***
-<br>
 >Write following commands in windows command prompt to execute the script.
 ```cmd
 git clone https://github.com/Devils-Knight/Close-Teams-Payload
